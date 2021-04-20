@@ -21,6 +21,8 @@ Steps
   - Copy the URL and KEY values and replace the values in Main_Function.gs
   * Make sure you copy the URL into the URLgi variable, but the URL variable requires the /api/3 after it.
 
-var URL = 'https://XXX.api-us1.com/api/3';                               //update this value
-var API = 'XXXX';    //update this value
-var URLgi = 'https://XXX.api-us1.com';                                   //update this value
+var URL = 'https://XXX.api-us1.com/api/3'; //update this value
+
+var API = 'XXXX';                          //update this value
+
+var URLgi = 'https://XXX.api-us1.com';     //update this value
